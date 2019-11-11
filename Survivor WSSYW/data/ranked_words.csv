@@ -1,0 +1,1249 @@
+season,season_name,rank,word,sentiment
+1.0,Borneo,0.0,borneo,neutral
+1.0,Borneo,1.0,different,neutral
+1.0,Borneo,2.0,the first,positive
+1.0,Borneo,3.0,order,neutral
+1.0,Borneo,4.0,in order,neutral
+1.0,Borneo,5.0,go to,neutral
+1.0,Borneo,6.0,television,neutral
+1.0,Borneo,7.0,start with,neutral
+1.0,Borneo,8.0,even if you,neutral
+1.0,Borneo,9.0,go to watch,neutral
+1.0,Borneo,10.0,watch borneo,neutral
+1.0,Borneo,11.0,know,neutral
+1.0,Borneo,12.0,watch in order,neutral
+1.0,Borneo,13.0,early,neutral
+1.0,Borneo,14.0,first season,positive
+1.0,Borneo,15.0,want,neutral
+1.0,Borneo,16.0,every season,neutral
+1.0,Borneo,17.0,watch every season,neutral
+1.0,Borneo,18.0,watch in,neutral
+1.0,Borneo,19.0,other season,negative
+1.0,Borneo,20.0,come,neutral
+1.0,Borneo,21.0,watch every,neutral
+1.0,Borneo,22.0,watch it,neutral
+1.0,Borneo,23.0,where it all,neutral
+1.0,Borneo,24.0,the original survivor,positive
+1.0,Borneo,25.0,mustwatch,neutral
+2.0,"Australian
+Outback",0.0,borneo,neutral
+2.0,"Australian
+Outback",1.0,australia,neutral
+2.0,"Australian
+Outback",2.0,outback,neutral
+2.0,"Australian
+Outback",3.0,australian,neutral
+2.0,"Australian
+Outback",4.0,oldschool,neutral
+2.0,"Australian
+Outback",5.0,australian outback,neutral
+2.0,"Australian
+Outback",6.0,they fight,neutral
+2.0,"Australian
+Outback",7.0,best episode,very positive
+2.0,"Australian
+Outback",8.0,the first,positive
+2.0,"Australian
+Outback",9.0,the best episode,very positive
+2.0,"Australian
+Outback",10.0,villain,neutral
+2.0,"Australian
+Outback",11.0,nature,neutral
+2.0,"Australian
+Outback",12.0,slow,negative
+2.0,"Australian
+Outback",13.0,they fight the,neutral
+2.0,"Australian
+Outback",14.0,fight the,neutral
+2.0,"Australian
+Outback",15.0,return,neutral
+2.0,"Australian
+Outback",16.0,iconic,very positive
+2.0,"Australian
+Outback",17.0,important,positive
+2.0,"Australian
+Outback",18.0,drag,negative
+2.0,"Australian
+Outback",19.0,old school,neutral
+2.0,"Australian
+Outback",20.0,survivor australia,neutral
+2.0,"Australian
+Outback",21.0,school,neutral
+2.0,"Australian
+Outback",22.0,favorite,very positive
+2.0,"Australian
+Outback",23.0,survival,neutral
+2.0,"Australian
+Outback",24.0,want,neutral
+2.0,"Australian
+Outback",25.0,postmerge,neutral
+3.0,Africa,0.0,africa,neutral
+3.0,Africa,1.0,location,neutral
+3.0,Africa,2.0,the location,neutral
+3.0,Africa,3.0,reward,neutral
+3.0,Africa,4.0,kenya,neutral
+3.0,Africa,5.0,australia,neutral
+3.0,Africa,6.0,favorite,very positive
+3.0,Africa,7.0,the first,positive
+3.0,Africa,8.0,tribe,neutral
+3.0,Africa,9.0,africa the,neutral
+3.0,Africa,10.0,early,neutral
+3.0,Africa,11.0,survival,neutral
+3.0,Africa,12.0,setting,neutral
+3.0,Africa,13.0,borneo,neutral
+3.0,Africa,14.0,lion,neutral
+3.0,Africa,15.0,the reward,neutral
+3.0,Africa,16.0,wildlife,neutral
+3.0,Africa,17.0,awesome,very positive
+3.0,Africa,18.0,th character,neutral
+3.0,Africa,19.0,best reward,very positive
+3.0,Africa,20.0,brutal,very negative
+3.0,Africa,21.0,the th,neutral
+3.0,Africa,22.0,location and,neutral
+3.0,Africa,23.0,the first ever,positive
+3.0,Africa,24.0,twist,neutral
+3.0,Africa,25.0,early season,neutral
+4.0,Marquesas,0.0,marquesas,neutral
+4.0,Marquesas,1.0,marq,neutral
+4.0,Marquesas,2.0,the first,positive
+4.0,Marquesas,3.0,climax,neutral
+4.0,Marquesas,4.0,borneo,neutral
+4.0,Marquesas,5.0,story,neutral
+4.0,Marquesas,6.0,important,positive
+4.0,Marquesas,7.0,season marquesas,neutral
+4.0,Marquesas,8.0,revolutionary,neutral
+4.0,Marquesas,9.0,marquesas have,neutral
+4.0,Marquesas,10.0,path,neutral
+4.0,Marquesas,11.0,happen,neutral
+4.0,Marquesas,12.0,set the stage,neutral
+4.0,Marquesas,13.0,the stage,neutral
+4.0,Marquesas,14.0,most important,positive
+4.0,Marquesas,15.0,set,neutral
+4.0,Marquesas,16.0,africa,neutral
+4.0,Marquesas,17.0,early,neutral
+4.0,Marquesas,18.0,marquesas the,neutral
+4.0,Marquesas,19.0,context,neutral
+4.0,Marquesas,20.0,major,neutral
+4.0,Marquesas,21.0,know,neutral
+4.0,Marquesas,22.0,stage,neutral
+4.0,Marquesas,23.0,critical,neutral
+4.0,Marquesas,24.0,chronology,neutral
+4.0,Marquesas,25.0,in survivor,neutral
+5.0,Thailand,0.0,thailand,neutral
+5.0,Thailand,1.0,thailand have,neutral
+5.0,Thailand,2.0,winner,neutral
+5.0,Thailand,3.0,survivor thailand,neutral
+5.0,Thailand,4.0,the first,positive
+5.0,Thailand,5.0,dark,negative
+5.0,Thailand,6.0,the winner,neutral
+5.0,Thailand,7.0,maybe you,neutral
+5.0,Thailand,8.0,it not,neutral
+5.0,Thailand,9.0,that thailand,neutral
+5.0,Thailand,10.0,have some,neutral
+5.0,Thailand,11.0,except for the,neutral
+5.0,Thailand,12.0,of the first,positive
+5.0,Thailand,13.0,worth,positive
+5.0,Thailand,14.0,out on if,neutral
+5.0,Thailand,15.0,unlikable,neutral
+5.0,Thailand,16.0,first bad season,negative
+5.0,Thailand,17.0,first bad,negative
+5.0,Thailand,18.0,illustrate,neutral
+5.0,Thailand,19.0,watch it,neutral
+5.0,Thailand,20.0,thailand fan,neutral
+5.0,Thailand,21.0,maybe you will,neutral
+5.0,Thailand,22.0,least,negative
+5.0,Thailand,23.0,and set,neutral
+5.0,Thailand,24.0,on if,neutral
+5.0,Thailand,25.0,on if you,neutral
+6.0,The Amazon,0.0,amazon,neutral
+6.0,The Amazon,1.0,men,neutral
+6.0,The Amazon,2.0,woman,neutral
+6.0,The Amazon,3.0,sex,neutral
+6.0,The Amazon,4.0,the men,neutral
+6.0,The Amazon,5.0,sexist,neutral
+6.0,The Amazon,6.0,of the sex,neutral
+6.0,The Amazon,7.0,battle of,neutral
+6.0,The Amazon,8.0,battle of the,neutral
+6.0,The Amazon,9.0,the sex,neutral
+6.0,The Amazon,10.0,men vs,neutral
+6.0,The Amazon,11.0,the amazon,neutral
+6.0,The Amazon,12.0,early,neutral
+6.0,The Amazon,13.0,the first,positive
+6.0,The Amazon,14.0,men vs woman,neutral
+6.0,The Amazon,15.0,vs woman,neutral
+6.0,The Amazon,16.0,high school,positive
+6.0,The Amazon,17.0,school,neutral
+6.0,The Amazon,18.0,old,neutral
+6.0,The Amazon,19.0,outdated,negative
+6.0,The Amazon,20.0,battle,neutral
+6.0,The Amazon,21.0,tribe,neutral
+6.0,The Amazon,22.0,well,neutral
+6.0,The Amazon,23.0,have not age,neutral
+6.0,The Amazon,24.0,young,neutral
+6.0,The Amazon,25.0,not age,neutral
+7.0,"Pearl
+Islands",0.0,pearl,neutral
+7.0,"Pearl
+Islands",1.0,pearl island,neutral
+7.0,"Pearl
+Islands",2.0,pirate,neutral
+7.0,"Pearl
+Islands",3.0,island,neutral
+7.0,"Pearl
+Islands",4.0,twist,neutral
+7.0,"Pearl
+Islands",5.0,pirate theme,neutral
+7.0,"Pearl
+Islands",6.0,the pirate,neutral
+7.0,"Pearl
+Islands",7.0,the pirate theme,neutral
+7.0,"Pearl
+Islands",8.0,villain,neutral
+7.0,"Pearl
+Islands",9.0,hero,neutral
+7.0,"Pearl
+Islands",10.0,iconic,very positive
+7.0,"Pearl
+Islands",11.0,pi,neutral
+7.0,"Pearl
+Islands",12.0,the twist,neutral
+7.0,"Pearl
+Islands",13.0,about pearl,neutral
+7.0,"Pearl
+Islands",14.0,about pearl island,neutral
+7.0,"Pearl
+Islands",15.0,watch it,neutral
+7.0,"Pearl
+Islands",16.0,most iconic,very positive
+7.0,"Pearl
+Islands",17.0,pearl island the,neutral
+7.0,"Pearl
+Islands",18.0,amaze,neutral
+7.0,"Pearl
+Islands",19.0,perfect,very positive
+7.0,"Pearl
+Islands",20.0,challenge,neutral
+7.0,"Pearl
+Islands",21.0,season of,neutral
+7.0,"Pearl
+Islands",22.0,some season have,neutral
+7.0,"Pearl
+Islands",23.0,the most iconic,very positive
+7.0,"Pearl
+Islands",24.0,premiere,neutral
+7.0,"Pearl
+Islands",25.0,best season,very positive
+8.0,All-Stars,0.0,allstars,neutral
+8.0,All-Stars,1.0,dark,negative
+8.0,All-Stars,2.0,the first,positive
+8.0,All-Stars,3.0,tragedy,neutral
+8.0,All-Stars,4.0,all star,neutral
+8.0,All-Stars,5.0,come,neutral
+8.0,All-Stars,6.0,dark season,negative
+8.0,All-Stars,7.0,of allstars,neutral
+8.0,All-Stars,8.0,star,neutral
+8.0,All-Stars,9.0,allstars not,neutral
+8.0,All-Stars,10.0,uncomfortable,very negative
+8.0,All-Stars,11.0,know,neutral
+8.0,All-Stars,12.0,seven season,neutral
+8.0,All-Stars,13.0,bitter jury,negative
+8.0,All-Stars,14.0,seven,neutral
+8.0,All-Stars,15.0,everyone,neutral
+8.0,All-Stars,16.0,ugly,very negative
+8.0,All-Stars,17.0,favorite,very positive
+8.0,All-Stars,18.0,that it,neutral
+8.0,All-Stars,19.0,want,neutral
+8.0,All-Stars,20.0,least,negative
+8.0,All-Stars,21.0,bitter,negative
+8.0,All-Stars,22.0,dark and,negative
+8.0,All-Stars,23.0,first season,positive
+8.0,All-Stars,24.0,return player,neutral
+8.0,All-Stars,25.0,look,neutral
+9.0,Vanuatu,0.0,vanuatu,neutral
+9.0,Vanuatu,1.0,slow,negative
+9.0,Vanuatu,2.0,volcano,neutral
+9.0,Vanuatu,3.0,woman,neutral
+9.0,Vanuatu,4.0,well,neutral
+9.0,Vanuatu,5.0,favorite,very positive
+9.0,Vanuatu,6.0,burn,neutral
+9.0,Vanuatu,7.0,story,neutral
+9.0,Vanuatu,8.0,the first,positive
+9.0,Vanuatu,9.0,slow burn,negative
+9.0,Vanuatu,10.0,vanuatu have,neutral
+9.0,Vanuatu,11.0,definitely one that,neutral
+9.0,Vanuatu,12.0,get well,neutral
+9.0,Vanuatu,13.0,build,neutral
+9.0,Vanuatu,14.0,vs woman,neutral
+9.0,Vanuatu,15.0,men vs,neutral
+9.0,Vanuatu,16.0,men vs woman,neutral
+9.0,Vanuatu,17.0,postmerge,neutral
+9.0,Vanuatu,18.0,merge,neutral
+9.0,Vanuatu,19.0,ftc,neutral
+9.0,Vanuatu,20.0,vanuatu get,neutral
+9.0,Vanuatu,21.0,get well it,neutral
+9.0,Vanuatu,22.0,very very,positive
+9.0,Vanuatu,23.0,winner,neutral
+9.0,Vanuatu,24.0,the premerge,neutral
+9.0,Vanuatu,25.0,few episode,negative
+10.0,Palau,0.0,palau,neutral
+10.0,Palau,1.0,dark,negative
+10.0,Palau,2.0,military,negative
+10.0,Palau,3.0,unique,positive
+10.0,Palau,4.0,challenge,neutral
+10.0,Palau,5.0,favorite,very positive
+10.0,Palau,6.0,military theme,negative
+10.0,Palau,7.0,story,neutral
+10.0,Palau,8.0,winner,neutral
+10.0,Palau,9.0,season palau,neutral
+10.0,Palau,10.0,brutal,very negative
+10.0,Palau,11.0,palau have,neutral
+10.0,Palau,12.0,emotional,neutral
+10.0,Palau,13.0,military theme that,negative
+10.0,Palau,14.0,palau not,neutral
+10.0,Palau,15.0,watch it,neutral
+10.0,Palau,16.0,absolutely,positive
+10.0,Palau,17.0,without,neutral
+10.0,Palau,18.0,not fun season,negative
+10.0,Palau,19.0,compelling,positive
+10.0,Palau,20.0,the military,negative
+10.0,Palau,21.0,discuss without,neutral
+10.0,Palau,22.0,toll on,neutral
+10.0,Palau,23.0,to discuss,neutral
+10.0,Palau,24.0,my favorite,very positive
+10.0,Palau,25.0,spoil,neutral
+11.0,Guatemala,0.0,guatemala,neutral
+11.0,Guatemala,1.0,palau,neutral
+11.0,Guatemala,2.0,watch palau,neutral
+11.0,Guatemala,3.0,location,neutral
+11.0,Guatemala,4.0,mayan,neutral
+11.0,Guatemala,5.0,forgotten,neutral
+11.0,Guatemala,6.0,guatemala have,neutral
+11.0,Guatemala,7.0,watch palau first,positive
+11.0,Guatemala,8.0,palau first,positive
+11.0,Guatemala,9.0,return,neutral
+11.0,Guatemala,10.0,the forgotten,neutral
+11.0,Guatemala,11.0,forgotten season,neutral
+11.0,Guatemala,12.0,underrated,neutral
+11.0,Guatemala,13.0,return player,neutral
+11.0,Guatemala,14.0,sequel,neutral
+11.0,Guatemala,15.0,mayan ruin,neutral
+11.0,Guatemala,16.0,the forgotten season,neutral
+11.0,Guatemala,17.0,sequel to,neutral
+11.0,Guatemala,18.0,season palau,neutral
+11.0,Guatemala,19.0,from palau,neutral
+11.0,Guatemala,20.0,sequel to palau,neutral
+11.0,Guatemala,21.0,return player from,neutral
+11.0,Guatemala,22.0,it do,neutral
+11.0,Guatemala,23.0,to palau,neutral
+11.0,Guatemala,24.0,brutal,very negative
+11.0,Guatemala,25.0,not watch,neutral
+12.0,Panama,0.0,panama,neutral
+12.0,Panama,1.0,tribe,neutral
+12.0,Panama,2.0,exile island,neutral
+12.0,Panama,3.0,exile,neutral
+12.0,Panama,4.0,twist,neutral
+12.0,Panama,5.0,fuck hilarious,neutral
+12.0,Panama,6.0,tribe in,neutral
+12.0,Panama,7.0,one tribe,neutral
+12.0,Panama,8.0,hilarious,very positive
+12.0,Panama,9.0,dysfunctional,neutral
+12.0,Panama,10.0,funny,positive
+12.0,Panama,11.0,that will keep,neutral
+12.0,Panama,12.0,tribe in survivor,neutral
+12.0,Panama,13.0,favorite,very positive
+12.0,Panama,14.0,all time,neutral
+12.0,Panama,15.0,rank,very negative
+12.0,Panama,16.0,most likable character,very positive
+12.0,Panama,17.0,who widely consider,negative
+12.0,Panama,18.0,funny season,positive
+12.0,Panama,19.0,will keep you,neutral
+12.0,Panama,20.0,will keep,neutral
+12.0,Panama,21.0,cirie,neutral
+12.0,Panama,22.0,who widely,negative
+12.0,Panama,23.0,crazy,very negative
+12.0,Panama,24.0,wacky,very positive
+12.0,Panama,25.0,contestant,neutral
+13.0,Cook Islands,0.0,cook,neutral
+13.0,Cook Islands,1.0,cook island,neutral
+13.0,Cook Islands,2.0,twist,neutral
+13.0,Cook Islands,3.0,ci,neutral
+13.0,Cook Islands,4.0,race,neutral
+13.0,Cook Islands,5.0,story,neutral
+13.0,Cook Islands,6.0,cook islands,neutral
+13.0,Cook Islands,7.0,island,neutral
+13.0,Cook Islands,8.0,islands,neutral
+13.0,Cook Islands,9.0,by race,neutral
+13.0,Cook Islands,10.0,divide,neutral
+13.0,Cook Islands,11.0,the first,positive
+13.0,Cook Islands,12.0,bore,neutral
+13.0,Cook Islands,13.0,contestant,neutral
+13.0,Cook Islands,14.0,the racial,neutral
+13.0,Cook Islands,15.0,rewatch,neutral
+13.0,Cook Islands,16.0,tribe,neutral
+13.0,Cook Islands,17.0,hate,very negative
+13.0,Cook Islands,18.0,forgettable,very negative
+13.0,Cook Islands,19.0,storyline,neutral
+13.0,Cook Islands,20.0,on rewatch,neutral
+13.0,Cook Islands,21.0,racial,neutral
+13.0,Cook Islands,22.0,return,neutral
+13.0,Cook Islands,23.0,it do,neutral
+13.0,Cook Islands,24.0,it massive,neutral
+13.0,Cook Islands,25.0,penner,neutral
+14.0,Fiji,0.0,fiji,neutral
+14.0,Fiji,1.0,twist,neutral
+14.0,Fiji,2.0,it have weird,very negative
+14.0,Fiji,3.0,fiji have,neutral
+14.0,Fiji,4.0,postmerge,neutral
+14.0,Fiji,5.0,have weird,very negative
+14.0,Fiji,6.0,the premerge,neutral
+14.0,Fiji,7.0,just weird,very negative
+14.0,Fiji,8.0,douchebags,neutral
+14.0,Fiji,9.0,it just weird,very negative
+14.0,Fiji,10.0,cook,neutral
+14.0,Fiji,11.0,have some,neutral
+14.0,Fiji,12.0,unlikable,neutral
+14.0,Fiji,13.0,merge,neutral
+14.0,Fiji,14.0,bad twist,very negative
+14.0,Fiji,15.0,weird,very negative
+14.0,Fiji,16.0,certainly not something,negative
+14.0,Fiji,17.0,so it certainly,positive
+14.0,Fiji,18.0,fiji also,neutral
+14.0,Fiji,19.0,watch it,neutral
+14.0,Fiji,20.0,do watch it,neutral
+14.0,Fiji,21.0,do not dislike,neutral
+14.0,Fiji,22.0,on negative,negative
+14.0,Fiji,23.0,underrated,neutral
+14.0,Fiji,24.0,winner,neutral
+14.0,Fiji,25.0,the postmerge,neutral
+15.0,China,0.0,china,neutral
+15.0,China,1.0,culture,neutral
+15.0,China,2.0,location,neutral
+15.0,China,3.0,chinese,neutral
+15.0,China,4.0,the culture,neutral
+15.0,China,5.0,challenge,neutral
+15.0,China,6.0,old,neutral
+15.0,China,7.0,and new,neutral
+15.0,China,8.0,favorite,very positive
+15.0,China,9.0,school,neutral
+15.0,China,10.0,the location,neutral
+15.0,China,11.0,to start,neutral
+15.0,China,12.0,old and new,neutral
+15.0,China,13.0,blend,neutral
+15.0,China,14.0,reward,neutral
+15.0,China,15.0,chinese culture,neutral
+15.0,China,16.0,of old and,neutral
+15.0,China,17.0,of old,neutral
+15.0,China,18.0,blend of,neutral
+15.0,China,19.0,old and,neutral
+15.0,China,20.0,dreamz,neutral
+15.0,China,21.0,of culture,neutral
+15.0,China,22.0,blend of old,neutral
+15.0,China,23.0,unique,positive
+15.0,China,24.0,start with,neutral
+15.0,China,25.0,new school,neutral
+16.0,Micronesia,0.0,micronesia,neutral
+16.0,Micronesia,1.0,favorite,very positive
+16.0,Micronesia,2.0,return,neutral
+16.0,Micronesia,3.0,return player,neutral
+16.0,Micronesia,4.0,the fan,neutral
+16.0,Micronesia,5.0,returnees,neutral
+16.0,Micronesia,6.0,blindsides,neutral
+16.0,Micronesia,7.0,the favorite,very positive
+16.0,Micronesia,8.0,the returnees,neutral
+16.0,Micronesia,9.0,know,neutral
+16.0,Micronesia,10.0,come,neutral
+16.0,Micronesia,11.0,fan vs,neutral
+16.0,Micronesia,12.0,fan vs favorite,very positive
+16.0,Micronesia,13.0,vs favorite,very positive
+16.0,Micronesia,14.0,and it often,neutral
+16.0,Micronesia,15.0,postmerge,neutral
+16.0,Micronesia,16.0,modern,positive
+16.0,Micronesia,17.0,rewatch,neutral
+16.0,Micronesia,18.0,season for,neutral
+16.0,Micronesia,19.0,alliance of all,neutral
+16.0,Micronesia,20.0,your first one,positive
+16.0,Micronesia,21.0,the fan tribe,neutral
+16.0,Micronesia,22.0,ostensibly,neutral
+16.0,Micronesia,23.0,original season first,positive
+16.0,Micronesia,24.0,fan tribe,neutral
+16.0,Micronesia,25.0,move,neutral
+17.0,Gabon,0.0,gabon,neutral
+17.0,Gabon,1.0,trainwreck,neutral
+17.0,Gabon,2.0,location,neutral
+17.0,Gabon,3.0,gabon great,very positive
+17.0,Gabon,4.0,trainwreck season,neutral
+17.0,Gabon,5.0,unique,positive
+17.0,Gabon,6.0,parody,neutral
+17.0,Gabon,7.0,gabon great that,very positive
+17.0,Gabon,8.0,make gabon great,very positive
+17.0,Gabon,9.0,wacky,very positive
+17.0,Gabon,10.0,hd,neutral
+17.0,Gabon,11.0,weird,very negative
+17.0,Gabon,12.0,make gabon,neutral
+17.0,Gabon,13.0,gateway,neutral
+17.0,Gabon,14.0,drama,neutral
+17.0,Gabon,15.0,clusterfuck,neutral
+17.0,Gabon,16.0,season of,neutral
+17.0,Gabon,17.0,gabon the,neutral
+17.0,Gabon,18.0,in hd,neutral
+17.0,Gabon,19.0,it not,neutral
+17.0,Gabon,20.0,crazy,very negative
+17.0,Gabon,21.0,well,neutral
+17.0,Gabon,22.0,hilarious,very positive
+17.0,Gabon,23.0,accessible,positive
+17.0,Gabon,24.0,petty,neutral
+17.0,Gabon,25.0,funny,positive
+18.0,Tocantins,0.0,tocantins,neutral
+18.0,Tocantins,1.0,coach,neutral
+18.0,Tocantins,2.0,exile,neutral
+18.0,Tocantins,3.0,location,neutral
+18.0,Tocantins,4.0,exile island,neutral
+18.0,Tocantins,5.0,agreeable,neutral
+18.0,Tocantins,6.0,oldschool,neutral
+18.0,Tocantins,7.0,school,neutral
+18.0,Tocantins,8.0,modern one,positive
+18.0,Tocantins,9.0,agreeable season,neutral
+18.0,Tocantins,10.0,inland,neutral
+18.0,Tocantins,11.0,what about,neutral
+18.0,Tocantins,12.0,love tocantins,very positive
+18.0,Tocantins,13.0,tocantins an,neutral
+18.0,Tocantins,14.0,tocantins do,neutral
+18.0,Tocantins,15.0,rank,very negative
+18.0,Tocantins,16.0,favorite,very positive
+18.0,Tocantins,17.0,back,neutral
+18.0,Tocantins,18.0,old,neutral
+18.0,Tocantins,19.0,tyson,neutral
+18.0,Tocantins,20.0,well,neutral
+18.0,Tocantins,21.0,my favorite,very positive
+18.0,Tocantins,22.0,modern,positive
+18.0,Tocantins,23.0,rewatch,neutral
+18.0,Tocantins,24.0,watch tocantins,neutral
+18.0,Tocantins,25.0,tocantins do not,neutral
+19.0,Samoa,0.0,samoa,neutral
+19.0,Samoa,1.0,person,neutral
+19.0,Samoa,2.0,one person,neutral
+19.0,Samoa,3.0,edited,neutral
+19.0,Samoa,4.0,season anywhere,neutral
+19.0,Samoa,5.0,this season anywhere,neutral
+19.0,Samoa,6.0,season anywhere near,neutral
+19.0,Samoa,7.0,russell,neutral
+19.0,Samoa,8.0,anywhere near,neutral
+19.0,Samoa,9.0,edited product,neutral
+19.0,Samoa,10.0,should not anywhere,neutral
+19.0,Samoa,11.0,the edited,neutral
+19.0,Samoa,12.0,the edited product,neutral
+19.0,Samoa,13.0,misrepresentation of,neutral
+19.0,Samoa,14.0,misrepresentation,neutral
+19.0,Samoa,15.0,story,neutral
+19.0,Samoa,16.0,editing,neutral
+19.0,Samoa,17.0,anywhere,neutral
+19.0,Samoa,18.0,watch it,neutral
+19.0,Samoa,19.0,can possibly,neutral
+19.0,Samoa,20.0,could have,neutral
+19.0,Samoa,21.0,on one,neutral
+19.0,Samoa,22.0,villain,neutral
+19.0,Samoa,23.0,edit it,neutral
+19.0,Samoa,24.0,that one person,neutral
+19.0,Samoa,25.0,the edit,neutral
+20.0,"Heroes vs.
+Villains",0.0,hvv,neutral
+20.0,"Heroes vs.
+Villains",1.0,then then,neutral
+20.0,"Heroes vs.
+Villains",2.0,know,neutral
+20.0,"Heroes vs.
+Villains",3.0,previous,negative
+20.0,"Heroes vs.
+Villains",4.0,allstar,neutral
+20.0,"Heroes vs.
+Villains",5.0,in any order,neutral
+20.0,"Heroes vs.
+Villains",6.0,any order,neutral
+20.0,"Heroes vs.
+Villains",7.0,watch hvv,neutral
+20.0,"Heroes vs.
+Villains",8.0,allstar season,neutral
+20.0,"Heroes vs.
+Villains",9.0,you have,neutral
+20.0,"Heroes vs.
+Villains",10.0,villain,neutral
+20.0,"Heroes vs.
+Villains",11.0,not watch,neutral
+20.0,"Heroes vs.
+Villains",12.0,hero vs,neutral
+20.0,"Heroes vs.
+Villains",13.0,return,neutral
+20.0,"Heroes vs.
+Villains",14.0,hero vs villain,neutral
+20.0,"Heroes vs.
+Villains",15.0,vs villain,neutral
+20.0,"Heroes vs.
+Villains",16.0,hero,neutral
+20.0,"Heroes vs.
+Villains",17.0,all star,neutral
+20.0,"Heroes vs.
+Villains",18.0,previous season,negative
+20.0,"Heroes vs.
+Villains",19.0,vs,neutral
+20.0,"Heroes vs.
+Villains",20.0,fun and satisfying,positive
+20.0,"Heroes vs.
+Villains",21.0,enjoy,positive
+20.0,"Heroes vs.
+Villains",22.0,rank,very negative
+20.0,"Heroes vs.
+Villains",23.0,do not watch,neutral
+20.0,"Heroes vs.
+Villains",24.0,players,neutral
+20.0,"Heroes vs.
+Villains",25.0,any order then,neutral
+21.0,Nicaragua,0.0,nicaragua,neutral
+21.0,Nicaragua,1.0,gabon,neutral
+21.0,Nicaragua,2.0,trainwreck,neutral
+21.0,Nicaragua,3.0,love nicaragua,very positive
+21.0,Nicaragua,4.0,kind of funky,very positive
+21.0,Nicaragua,5.0,have some kind,very positive
+21.0,Nicaragua,6.0,funky,neutral
+21.0,Nicaragua,7.0,of funky,neutral
+21.0,Nicaragua,8.0,hilarious,very positive
+21.0,Nicaragua,9.0,this player,neutral
+21.0,Nicaragua,10.0,of trainwreck,neutral
+21.0,Nicaragua,11.0,absolutely,positive
+21.0,Nicaragua,12.0,underrated,neutral
+21.0,Nicaragua,13.0,some kind of,very positive
+21.0,Nicaragua,14.0,some kind,very positive
+21.0,Nicaragua,15.0,watch it,neutral
+21.0,Nicaragua,16.0,crazy,very negative
+21.0,Nicaragua,17.0,winner,neutral
+21.0,Nicaragua,18.0,clusterfuck,neutral
+21.0,Nicaragua,19.0,gabon for,neutral
+21.0,Nicaragua,20.0,of the high,positive
+21.0,Nicaragua,21.0,hate,very negative
+21.0,Nicaragua,22.0,person,neutral
+21.0,Nicaragua,23.0,happen,neutral
+21.0,Nicaragua,24.0,funny,positive
+21.0,Nicaragua,25.0,have some,neutral
+22.0,"Redemption
+Island",0.0,redemption island,neutral
+22.0,"Redemption
+Island",1.0,redemption,neutral
+22.0,"Redemption
+Island",2.0,island,neutral
+22.0,"Redemption
+Island",3.0,the bad,very negative
+22.0,"Redemption
+Island",4.0,circlejerk,neutral
+22.0,"Redemption
+Island",5.0,twist,neutral
+22.0,"Redemption
+Island",6.0,return,neutral
+22.0,"Redemption
+Island",7.0,redemption island the,neutral
+22.0,"Redemption
+Island",8.0,two return,neutral
+22.0,"Redemption
+Island",9.0,horrible,very negative
+22.0,"Redemption
+Island",10.0,bad season,very negative
+22.0,"Redemption
+Island",11.0,return player,neutral
+22.0,"Redemption
+Island",12.0,the bad season,very negative
+22.0,"Redemption
+Island",13.0,watch redemption,neutral
+22.0,"Redemption
+Island",14.0,island the bad,very negative
+22.0,"Redemption
+Island",15.0,watch redemption island,neutral
+22.0,"Redemption
+Island",16.0,hate,very negative
+22.0,"Redemption
+Island",17.0,island the,neutral
+22.0,"Redemption
+Island",18.0,two return player,neutral
+22.0,"Redemption
+Island",19.0,season of,neutral
+22.0,"Redemption
+Island",20.0,rank,very negative
+22.0,"Redemption
+Island",21.0,bad season of,very negative
+22.0,"Redemption
+Island",22.0,ri,neutral
+22.0,"Redemption
+Island",23.0,winner,neutral
+22.0,"Redemption
+Island",24.0,this the bad,very negative
+22.0,"Redemption
+Island",25.0,predictable,negative
+23.0,"South
+Pacific",0.0,south,neutral
+23.0,"South
+Pacific",1.0,south pacific,neutral
+23.0,"South
+Pacific",2.0,pacific,neutral
+23.0,"South
+Pacific",3.0,religion,neutral
+23.0,"South
+Pacific",4.0,redemption island,neutral
+23.0,"South
+Pacific",5.0,redemption,neutral
+23.0,"South
+Pacific",6.0,dark,negative
+23.0,"South
+Pacific",7.0,sopa,neutral
+23.0,"South
+Pacific",8.0,island,neutral
+23.0,"South
+Pacific",9.0,winner,neutral
+23.0,"South
+Pacific",10.0,uncomfortable,very negative
+23.0,"South
+Pacific",11.0,the dark,negative
+23.0,"South
+Pacific",12.0,it not,neutral
+23.0,"South
+Pacific",13.0,return,neutral
+23.0,"South
+Pacific",14.0,of religion,neutral
+23.0,"South
+Pacific",15.0,religious,neutral
+23.0,"South
+Pacific",16.0,return player,neutral
+23.0,"South
+Pacific",17.0,cult,neutral
+23.0,"South
+Pacific",18.0,or th,neutral
+23.0,"South
+Pacific",19.0,stuff,neutral
+23.0,"South
+Pacific",20.0,stuff that,neutral
+23.0,"South
+Pacific",21.0,dark age,negative
+23.0,"South
+Pacific",22.0,of the dark,negative
+23.0,"South
+Pacific",23.0,feature,neutral
+23.0,"South
+Pacific",24.0,dark and,negative
+23.0,"South
+Pacific",25.0,south pacific have,neutral
+24.0,One World,0.0,one world,neutral
+24.0,One World,1.0,world,neutral
+24.0,One World,2.0,winner,neutral
+24.0,One World,3.0,the winner,neutral
+24.0,One World,4.0,the bad,very negative
+24.0,One World,5.0,boring,very negative
+24.0,One World,6.0,ri,neutral
+24.0,One World,7.0,mention in the,neutral
+24.0,One World,8.0,season and try,neutral
+24.0,One World,9.0,em,neutral
+24.0,One World,10.0,do not think,neutral
+24.0,One World,11.0,watch it unless,neutral
+24.0,One World,12.0,not think,neutral
+24.0,One World,13.0,it deserve to,neutral
+24.0,One World,14.0,already see like,neutral
+24.0,One World,15.0,in the same,neutral
+24.0,One World,16.0,breath,neutral
+24.0,One World,17.0,it unless you,neutral
+24.0,One World,18.0,it unless,neutral
+24.0,One World,19.0,see like,neutral
+24.0,One World,20.0,try to catch,neutral
+24.0,One World,21.0,mention in,neutral
+24.0,One World,22.0,of all time,neutral
+24.0,One World,23.0,all time,neutral
+24.0,One World,24.0,much reason to,positive
+24.0,One World,25.0,there much reason,positive
+25.0,Philippines,0.0,philippine,neutral
+25.0,Philippines,1.0,returnees,neutral
+25.0,Philippines,2.0,story,neutral
+25.0,Philippines,3.0,return,neutral
+25.0,Philippines,4.0,return player,neutral
+25.0,Philippines,5.0,three,neutral
+25.0,Philippines,6.0,the first,positive
+25.0,Philippines,7.0,villain,neutral
+25.0,Philippines,8.0,the returnees,neutral
+25.0,Philippines,9.0,know,neutral
+25.0,Philippines,10.0,first four episode,positive
+25.0,Philippines,11.0,evacuate,neutral
+25.0,Philippines,12.0,favorite,very positive
+25.0,Philippines,13.0,previous,negative
+25.0,Philippines,14.0,four episode,neutral
+25.0,Philippines,15.0,postmerge,neutral
+25.0,Philippines,16.0,spoiler for,neutral
+25.0,Philippines,17.0,modern,positive
+25.0,Philippines,18.0,the first four,positive
+25.0,Philippines,19.0,previous season,negative
+25.0,Philippines,20.0,arc,neutral
+25.0,Philippines,21.0,first four,positive
+25.0,Philippines,22.0,tribe,neutral
+25.0,Philippines,23.0,more satisfying,very positive
+25.0,Philippines,24.0,hero,neutral
+25.0,Philippines,25.0,satisfying when,very positive
+26.0,Caramoan,0.0,no no,neutral
+26.0,Caramoan,1.0,no no no,neutral
+26.0,Caramoan,2.0,caramoan,neutral
+26.0,Caramoan,3.0,favorite,very positive
+26.0,Caramoan,4.0,the favorite,very positive
+26.0,Caramoan,5.0,the fan,neutral
+26.0,Caramoan,6.0,editing,neutral
+26.0,Caramoan,7.0,fan not,neutral
+26.0,Caramoan,8.0,postmerge,neutral
+26.0,Caramoan,9.0,the fan not,neutral
+26.0,Caramoan,10.0,uncomfortable,very negative
+26.0,Caramoan,11.0,winner,neutral
+26.0,Caramoan,12.0,not fan and,neutral
+26.0,Caramoan,13.0,the favorite not,very positive
+26.0,Caramoan,14.0,and the favorite,very positive
+26.0,Caramoan,15.0,the bad,very negative
+26.0,Caramoan,16.0,atrocious,very negative
+26.0,Caramoan,17.0,favorite not,very positive
+26.0,Caramoan,18.0,mama,neutral
+26.0,Caramoan,19.0,return,neutral
+26.0,Caramoan,20.0,least,negative
+26.0,Caramoan,21.0,redemption island,neutral
+26.0,Caramoan,22.0,fan and,neutral
+26.0,Caramoan,23.0,malcolm,neutral
+26.0,Caramoan,24.0,return player,neutral
+26.0,Caramoan,25.0,awful,very negative
+27.0,"Blood vs.
+Water",0.0,bvw,neutral
+27.0,"Blood vs.
+Water",1.0,redemption island,neutral
+27.0,"Blood vs.
+Water",2.0,twist,neutral
+27.0,"Blood vs.
+Water",3.0,redemption,neutral
+27.0,"Blood vs.
+Water",4.0,loved one,very positive
+27.0,"Blood vs.
+Water",5.0,loved,very positive
+27.0,"Blood vs.
+Water",6.0,blood,neutral
+27.0,"Blood vs.
+Water",7.0,returnees,neutral
+27.0,"Blood vs.
+Water",8.0,blood water,neutral
+27.0,"Blood vs.
+Water",9.0,return,neutral
+27.0,"Blood vs.
+Water",10.0,water,neutral
+27.0,"Blood vs.
+Water",11.0,island,neutral
+27.0,"Blood vs.
+Water",12.0,bvw twist,neutral
+27.0,"Blood vs.
+Water",13.0,return player,neutral
+27.0,"Blood vs.
+Water",14.0,the bvw,neutral
+27.0,"Blood vs.
+Water",15.0,the loved,very positive
+27.0,"Blood vs.
+Water",16.0,the blood,neutral
+27.0,"Blood vs.
+Water",17.0,the loved one,very positive
+27.0,"Blood vs.
+Water",18.0,the blood water,neutral
+27.0,"Blood vs.
+Water",19.0,average,negative
+27.0,"Blood vs.
+Water",20.0,the bvw twist,neutral
+27.0,"Blood vs.
+Water",21.0,return player and,neutral
+27.0,"Blood vs.
+Water",22.0,family,neutral
+27.0,"Blood vs.
+Water",23.0,mediocre,very negative
+27.0,"Blood vs.
+Water",24.0,postmerge,neutral
+27.0,"Blood vs.
+Water",25.0,the returnees,neutral
+28.0,Cagayan,0.0,cagayan,neutral
+28.0,Cagayan,1.0,modern,positive
+28.0,Cagayan,2.0,winner,neutral
+28.0,Cagayan,3.0,start with,neutral
+28.0,Cagayan,4.0,want,neutral
+28.0,Cagayan,5.0,merge,neutral
+28.0,Cagayan,6.0,best season,very positive
+28.0,Cagayan,7.0,postmerge,neutral
+28.0,Cagayan,8.0,philippine,neutral
+28.0,Cagayan,9.0,new school,neutral
+28.0,Cagayan,10.0,modern survivor,positive
+28.0,Cagayan,11.0,twist,neutral
+28.0,Cagayan,12.0,rank,very negative
+28.0,Cagayan,13.0,want to,neutral
+28.0,Cagayan,14.0,merge episode,neutral
+28.0,Cagayan,15.0,season of,neutral
+28.0,Cagayan,16.0,the best season,very positive
+28.0,Cagayan,17.0,to start,neutral
+28.0,Cagayan,18.0,favorite,very positive
+28.0,Cagayan,19.0,mislead,neutral
+28.0,Cagayan,20.0,watch cagayan,neutral
+28.0,Cagayan,21.0,hook,neutral
+28.0,Cagayan,22.0,new school season,neutral
+28.0,Cagayan,23.0,tribe,neutral
+28.0,Cagayan,24.0,high,positive
+28.0,Cagayan,25.0,the winner,neutral
+29.0,"San Juan
+del Sur",0.0,sjds,neutral
+29.0,"San Juan
+del Sur",1.0,bvw,neutral
+29.0,"San Juan
+del Sur",2.0,the bvw,neutral
+29.0,"San Juan
+del Sur",3.0,blood,neutral
+29.0,"San Juan
+del Sur",4.0,san,neutral
+29.0,"San Juan
+del Sur",5.0,san juan,neutral
+29.0,"San Juan
+del Sur",6.0,juan,neutral
+29.0,"San Juan
+del Sur",7.0,water,neutral
+29.0,"San Juan
+del Sur",8.0,sur,neutral
+29.0,"San Juan
+del Sur",9.0,juan del sur,neutral
+29.0,"San Juan
+del Sur",10.0,juan del,neutral
+29.0,"San Juan
+del Sur",11.0,del sur,neutral
+29.0,"San Juan
+del Sur",12.0,del,neutral
+29.0,"San Juan
+del Sur",13.0,san juan del,neutral
+29.0,"San Juan
+del Sur",14.0,twist,neutral
+29.0,"San Juan
+del Sur",15.0,blood water,neutral
+29.0,"San Juan
+del Sur",16.0,blood vs water,neutral
+29.0,"San Juan
+del Sur",17.0,blood vs,neutral
+29.0,"San Juan
+del Sur",18.0,vs water,neutral
+29.0,"San Juan
+del Sur",19.0,winner,neutral
+29.0,"San Juan
+del Sur",20.0,the blood,neutral
+29.0,"San Juan
+del Sur",21.0,the bvw twist,neutral
+29.0,"San Juan
+del Sur",22.0,bvw twist,neutral
+29.0,"San Juan
+del Sur",23.0,pair,neutral
+29.0,"San Juan
+del Sur",24.0,story,neutral
+29.0,"San Juan
+del Sur",25.0,water season,neutral
+30.0,Worlds Apart,0.0,world apart,neutral
+30.0,Worlds Apart,1.0,apart,neutral
+30.0,Worlds Apart,2.0,ugly,very negative
+30.0,Worlds Apart,3.0,collar,neutral
+30.0,Worlds Apart,4.0,winner,neutral
+30.0,Worlds Apart,5.0,world,neutral
+30.0,Worlds Apart,6.0,uncomfortable,very negative
+30.0,Worlds Apart,7.0,dark,negative
+30.0,Worlds Apart,8.0,it not,neutral
+30.0,Worlds Apart,9.0,enjoy,positive
+30.0,Worlds Apart,10.0,the winner,neutral
+30.0,Worlds Apart,11.0,lame,very negative
+30.0,Worlds Apart,12.0,the bad,very negative
+30.0,Worlds Apart,13.0,postmerge,neutral
+30.0,Worlds Apart,14.0,story,neutral
+30.0,Worlds Apart,15.0,ugliness,negative
+30.0,Worlds Apart,16.0,uncomfortable moment,very negative
+30.0,Worlds Apart,17.0,no collar,neutral
+30.0,Worlds Apart,18.0,mike,neutral
+30.0,Worlds Apart,19.0,funny,positive
+30.0,Worlds Apart,20.0,unlikeable,neutral
+30.0,Worlds Apart,21.0,villain,neutral
+30.0,Worlds Apart,22.0,come,neutral
+30.0,Worlds Apart,23.0,endgamers,neutral
+30.0,Worlds Apart,24.0,boot,neutral
+30.0,Worlds Apart,25.0,get ugly,very negative
+31.0,Cambodia,0.0,cambodia,neutral
+31.0,Cambodia,1.0,know,neutral
+31.0,Cambodia,2.0,second chance,neutral
+31.0,Cambodia,3.0,come,neutral
+31.0,Cambodia,4.0,allstar,neutral
+31.0,Cambodia,5.0,want,neutral
+31.0,Cambodia,6.0,do not start,neutral
+31.0,Cambodia,7.0,chance,neutral
+31.0,Cambodia,8.0,returnees,neutral
+31.0,Cambodia,9.0,allstar season,neutral
+31.0,Cambodia,10.0,strategy and,neutral
+31.0,Cambodia,11.0,keith,neutral
+31.0,Cambodia,12.0,not start,neutral
+31.0,Cambodia,13.0,everyone,neutral
+31.0,Cambodia,14.0,focus,neutral
+31.0,Cambodia,15.0,on strategy,neutral
+31.0,Cambodia,16.0,not watch,neutral
+31.0,Cambodia,17.0,story,neutral
+31.0,Cambodia,18.0,previous,negative
+31.0,Cambodia,19.0,strategyheavy season,neutral
+31.0,Cambodia,20.0,return,neutral
+31.0,Cambodia,21.0,tasha,neutral
+31.0,Cambodia,22.0,talk,neutral
+31.0,Cambodia,23.0,vote,neutral
+31.0,Cambodia,24.0,joe,neutral
+31.0,Cambodia,25.0,constant,neutral
+32.0,Kaôh Rōng,0.0,kaoh,neutral
+32.0,Kaôh Rōng,1.0,rong,neutral
+32.0,Kaôh Rōng,2.0,kaoh rong,neutral
+32.0,Kaôh Rōng,3.0,modern,positive
+32.0,Kaôh Rōng,4.0,rōng,neutral
+32.0,Kaôh Rōng,5.0,kaôh rōng,neutral
+32.0,Kaôh Rōng,6.0,kaôh,neutral
+32.0,Kaôh Rōng,7.0,villain,neutral
+32.0,Kaôh Rōng,8.0,winner,neutral
+32.0,Kaôh Rōng,9.0,cagayan,neutral
+32.0,Kaôh Rōng,10.0,twist,neutral
+32.0,Kaôh Rōng,11.0,story,neutral
+32.0,Kaôh Rōng,12.0,modern season,positive
+32.0,Kaôh Rōng,13.0,favorite,very positive
+32.0,Kaôh Rōng,14.0,school,neutral
+32.0,Kaôh Rōng,15.0,the winner,neutral
+32.0,Kaôh Rōng,16.0,kaoh rong have,neutral
+32.0,Kaôh Rōng,17.0,rong have,neutral
+32.0,Kaôh Rōng,18.0,new school,neutral
+32.0,Kaôh Rōng,19.0,old,neutral
+32.0,Kaôh Rōng,20.0,emotion,neutral
+32.0,Kaôh Rōng,21.0,something,neutral
+32.0,Kaôh Rōng,22.0,hero,neutral
+32.0,Kaôh Rōng,23.0,my favorite,very positive
+32.0,Kaôh Rōng,24.0,well,neutral
+32.0,Kaôh Rōng,25.0,in kaoh rong,neutral
+33.0,MvGX,0.0,meta,neutral
+33.0,MvGX,1.0,the theme,neutral
+33.0,MvGX,2.0,mvgx,neutral
+33.0,MvGX,3.0,resume,neutral
+33.0,MvGX,4.0,millennial,neutral
+33.0,MvGX,5.0,merge,neutral
+33.0,MvGX,6.0,evolution,neutral
+33.0,MvGX,7.0,gen,neutral
+33.0,MvGX,8.0,story,neutral
+33.0,MvGX,9.0,millennials,neutral
+33.0,MvGX,10.0,evolution of the,neutral
+33.0,MvGX,11.0,well,neutral
+33.0,MvGX,12.0,super idol,positive
+33.0,MvGX,13.0,evolution of,neutral
+33.0,MvGX,14.0,postmerge,neutral
+33.0,MvGX,15.0,the character,neutral
+33.0,MvGX,16.0,millennials vs,neutral
+33.0,MvGX,17.0,big move,neutral
+33.0,MvGX,18.0,vs gen,neutral
+33.0,MvGX,19.0,the merge,neutral
+33.0,MvGX,20.0,that it,neutral
+33.0,MvGX,21.0,bore,neutral
+33.0,MvGX,22.0,strategy heavy,negative
+33.0,MvGX,23.0,blastoise,neutral
+33.0,MvGX,24.0,very meta,positive
+33.0,MvGX,25.0,squirtle,neutral
+34.0,"Game
+Changers",0.0,changer,neutral
+34.0,"Game
+Changers",1.0,game changer,negative
+34.0,"Game
+Changers",2.0,twist,neutral
+34.0,"Game
+Changers",3.0,the premerge,neutral
+34.0,"Game
+Changers",4.0,cambodia,neutral
+34.0,"Game
+Changers",5.0,many twist,very positive
+34.0,"Game
+Changers",6.0,get screw,neutral
+34.0,"Game
+Changers",7.0,well,neutral
+34.0,"Game
+Changers",8.0,merge,neutral
+34.0,"Game
+Changers",9.0,awful,very negative
+34.0,"Game
+Changers",10.0,it not,neutral
+34.0,"Game
+Changers",11.0,postmerge,neutral
+34.0,"Game
+Changers",12.0,winner,neutral
+34.0,"Game
+Changers",13.0,screw,neutral
+34.0,"Game
+Changers",14.0,gc,neutral
+34.0,"Game
+Changers",15.0,legend,neutral
+34.0,"Game
+Changers",16.0,dark moment,negative
+34.0,"Game
+Changers",17.0,mod,positive
+34.0,"Game
+Changers",18.0,boot order,neutral
+34.0,"Game
+Changers",19.0,on game changer,negative
+34.0,"Game
+Changers",20.0,on game,negative
+34.0,"Game
+Changers",21.0,favorite player get,very positive
+34.0,"Game
+Changers",22.0,want,neutral
+34.0,"Game
+Changers",23.0,boot,neutral
+34.0,"Game
+Changers",24.0,order,neutral
+34.0,"Game
+Changers",25.0,fan favorite,very positive
+35.0,HvHvH,0.0,finale,neutral
+35.0,HvHvH,1.0,the finale,neutral
+35.0,HvHvH,2.0,twist,neutral
+35.0,HvHvH,3.0,secret,negative
+35.0,HvHvH,4.0,hhh,neutral
+35.0,HvHvH,5.0,that ruin,neutral
+35.0,HvHvH,6.0,the season overall,neutral
+35.0,HvHvH,7.0,pre merge and,neutral
+35.0,HvHvH,8.0,ruin,neutral
+35.0,HvHvH,9.0,final,neutral
+35.0,HvHvH,10.0,the final,neutral
+35.0,HvHvH,11.0,ranking season ranking,neutral
+35.0,HvHvH,12.0,my ranking season,neutral
+35.0,HvHvH,13.0,end which have,neutral
+35.0,HvHvH,14.0,the jury and,neutral
+35.0,HvHvH,15.0,ranking season,neutral
+35.0,HvHvH,16.0,final twist,neutral
+35.0,HvHvH,17.0,season overall the,neutral
+35.0,HvHvH,18.0,the final twist,neutral
+35.0,HvHvH,19.0,leave many,very positive
+35.0,HvHvH,20.0,get bit,neutral
+35.0,HvHvH,21.0,that moment,neutral
+35.0,HvHvH,22.0,ruin the season,neutral
+35.0,HvHvH,23.0,the final one,neutral
+35.0,HvHvH,24.0,lot of random,very negative
+35.0,HvHvH,25.0,until the finale,neutral
+36.0,Ghost Island,0.0,ghost island,neutral
+36.0,Ghost Island,1.0,ghost,neutral
+36.0,Ghost Island,2.0,twist,neutral
+36.0,Ghost Island,3.0,gi,neutral
+36.0,Ghost Island,4.0,editing,neutral
+36.0,Ghost Island,5.0,the twist,neutral
+36.0,Ghost Island,6.0,callback to,neutral
+36.0,Ghost Island,7.0,the editing,neutral
+36.0,Ghost Island,8.0,callback,neutral
+36.0,Ghost Island,9.0,island,neutral
+36.0,Ghost Island,10.0,dud,neutral
+36.0,Ghost Island,11.0,lull,neutral
+36.0,Ghost Island,12.0,the wait,neutral
+36.0,Ghost Island,13.0,worth the wait,positive
+36.0,Ghost Island,14.0,past season,negative
+36.0,Ghost Island,15.0,wait,neutral
+36.0,Ghost Island,16.0,nothing,neutral
+36.0,Ghost Island,17.0,spoil,neutral
+36.0,Ghost Island,18.0,merge,neutral
+36.0,Ghost Island,19.0,ftc vote,neutral
+36.0,Ghost Island,20.0,lever,neutral
+36.0,Ghost Island,21.0,lull but,neutral
+36.0,Ghost Island,22.0,gi so,neutral
+36.0,Ghost Island,23.0,on ghost island,neutral
+36.0,Ghost Island,24.0,on ghost,neutral
+36.0,Ghost Island,25.0,changer this season,neutral
+37.0,"David vs.
+Goliath",0.0,advantage,neutral
+37.0,"David vs.
+Goliath",1.0,dvg,neutral
+37.0,"David vs.
+Goliath",2.0,modern,positive
+37.0,"David vs.
+Goliath",3.0,of advantage,neutral
+37.0,"David vs.
+Goliath",4.0,recency bias,neutral
+37.0,"David vs.
+Goliath",5.0,recency,neutral
+37.0,"David vs.
+Goliath",6.0,david vs goliath,neutral
+37.0,"David vs.
+Goliath",7.0,goliath,neutral
+37.0,"David vs.
+Goliath",8.0,than and,neutral
+37.0,"David vs.
+Goliath",9.0,dvg the,neutral
+37.0,"David vs.
+Goliath",10.0,gentle,positive
+37.0,"David vs.
+Goliath",11.0,it good edit,very positive
+37.0,"David vs.
+Goliath",12.0,your main course,positive
+37.0,"David vs.
+Goliath",13.0,get their time,neutral
+37.0,"David vs.
+Goliath",14.0,vs goliath,neutral
+37.0,"David vs.
+Goliath",15.0,very noticeable,positive
+37.0,"David vs.
+Goliath",16.0,david vs,neutral
+37.0,"David vs.
+Goliath",17.0,blah blah,neutral
+37.0,"David vs.
+Goliath",18.0,good edit for,very positive
+37.0,"David vs.
+Goliath",19.0,when it focus,neutral
+37.0,"David vs.
+Goliath",20.0,blah,neutral
+37.0,"David vs.
+Goliath",21.0,modern survivor,positive
+37.0,"David vs.
+Goliath",22.0,postmerge,neutral
+37.0,"David vs.
+Goliath",23.0,modern survivor have,positive
+37.0,"David vs.
+Goliath",24.0,main course,positive
+37.0,"David vs.
+Goliath",25.0,advantage the,neutral
+38.0,"Edge of
+Extinction",0.0,twist,neutral
+38.0,"Edge of
+Extinction",1.0,eoe,neutral
+38.0,"Edge of
+Extinction",2.0,editing,neutral
+38.0,"Edge of
+Extinction",3.0,go wrong,very negative
+38.0,"Edge of
+Extinction",4.0,the main twist,positive
+38.0,"Edge of
+Extinction",5.0,the editing,neutral
+38.0,"Edge of
+Extinction",6.0,partially due to,negative
+38.0,"Edge of
+Extinction",7.0,partially due,negative
+38.0,"Edge of
+Extinction",8.0,main twist,positive
+38.0,"Edge of
+Extinction",9.0,remove,neutral
+38.0,"Edge of
+Extinction",10.0,partially,negative
+38.0,"Edge of
+Extinction",11.0,the twist,neutral
+38.0,"Edge of
+Extinction",12.0,wrong,very negative
+38.0,"Edge of
+Extinction",13.0,gabon,neutral
+38.0,"Edge of
+Extinction",14.0,weird,very negative
+38.0,"Edge of
+Extinction",15.0,twist very,positive
+38.0,"Edge of
+Extinction",16.0,really weird season,very negative
+38.0,"Edge of
+Extinction",17.0,not typical,neutral
+38.0,"Edge of
+Extinction",18.0,it mean for,negative
+38.0,"Edge of
+Extinction",19.0,what it mean,negative
+38.0,"Edge of
+Extinction",20.0,mean for the,negative
+38.0,"Edge of
+Extinction",21.0,mean for,negative
+38.0,"Edge of
+Extinction",22.0,very bizzare,positive
+38.0,"Edge of
+Extinction",23.0,bizzare,neutral
+38.0,"Edge of
+Extinction",24.0,because it not,neutral
+38.0,"Edge of
+Extinction",25.0,postmerge,neutral
