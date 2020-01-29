@@ -1,0 +1,169 @@
+,Episode,name,rank,finish,vote out,finalist,FTC,Finish
+0,Premiere,Roark,4.01,14.0,False,False,False,>5
+1,Episode 2,Roark,3.03,14.0,False,False,False,>5
+2,Episode 3,Roark,,14.0,False,False,False,>5
+3,Episode 4,Roark,,14.0,False,False,False,>5
+4,Episode 5,Roark,,14.0,True,False,False,>5
+5,Episode 6,Roark,,14.0,False,False,False,>5
+6,Episode 7,Roark,,14.0,False,False,False,>5
+7,Episode 8,Roark,,14.0,False,False,False,>5
+8,Episode 9,Roark,,14.0,False,False,False,>5
+9,Episode 10,Roark,,14.0,False,False,False,>5
+10,Episode 11,Roark,,14.0,False,False,False,>5
+11,Episode 12,Roark,,14.0,False,False,False,>5
+12,Episode 13,Roark,,14.0,False,False,False,>5
+13,Finale,Roark,,14.0,False,False,False,>5
+14,Premiere,Ryan,3.91,3.0,False,True,False,3.0
+15,Episode 2,Ryan,3.74,3.0,False,True,False,3.0
+16,Episode 3,Ryan,3.77,3.0,False,True,False,3.0
+17,Episode 4,Ryan,3.42,3.0,False,True,False,3.0
+18,Episode 5,Ryan,3.11,3.0,False,True,False,3.0
+19,Episode 6,Ryan,,3.0,False,True,False,3.0
+20,Episode 7,Ryan,,3.0,False,True,False,3.0
+21,Episode 8,Ryan,2.65,3.0,False,True,False,3.0
+22,Episode 9,Ryan,2.4,3.0,False,True,False,3.0
+23,Episode 10,Ryan,1.8,3.0,False,True,False,3.0
+24,Episode 11,Ryan,1.68,3.0,False,True,False,3.0
+25,Episode 12,Ryan,1.69,3.0,False,True,False,3.0
+26,Episode 13,Ryan,1.64,3.0,False,True,False,3.0
+27,Finale,Ryan,1.64,3.0,True,True,True,3.0
+28,Premiere,Chrissy,3.89,2.0,False,True,False,2.0
+29,Episode 2,Chrissy,4.51,2.0,False,True,False,2.0
+30,Episode 3,Chrissy,4.39,2.0,False,True,False,2.0
+31,Episode 4,Chrissy,4.7,2.0,False,True,False,2.0
+32,Episode 5,Chrissy,3.8,2.0,False,True,False,2.0
+33,Episode 6,Chrissy,4.43,2.0,False,True,False,2.0
+34,Episode 7,Chrissy,3.85,2.0,False,True,False,2.0
+35,Episode 8,Chrissy,3.76,2.0,False,True,False,2.0
+36,Episode 9,Chrissy,3.79,2.0,False,True,False,2.0
+37,Episode 10,Chrissy,2.86,2.0,False,True,False,2.0
+38,Episode 11,Chrissy,2.73,2.0,False,True,False,2.0
+39,Episode 12,Chrissy,3.27,2.0,False,True,False,2.0
+40,Episode 13,Chrissy,3.88,2.0,False,True,False,2.0
+41,Finale,Chrissy,3.88,2.0,True,True,True,2.0
+42,Premiere,Ali,3.68,13.0,False,False,False,>5
+43,Episode 2,Ali,,13.0,False,False,False,>5
+44,Episode 3,Ali,4.26,13.0,False,False,False,>5
+45,Episode 4,Ali,4.13,13.0,False,False,False,>5
+46,Episode 5,Ali,3.8,13.0,False,False,False,>5
+47,Episode 6,Ali,3.8,13.0,True,False,False,>5
+48,Episode 7,Ali,,13.0,False,False,False,>5
+49,Episode 8,Ali,,13.0,False,False,False,>5
+50,Episode 9,Ali,,13.0,False,False,False,>5
+51,Episode 10,Ali,,13.0,False,False,False,>5
+52,Episode 11,Ali,,13.0,False,False,False,>5
+53,Episode 12,Ali,,13.0,False,False,False,>5
+54,Episode 13,Ali,,13.0,False,False,False,>5
+55,Finale,Ali,,13.0,False,False,False,>5
+56,Premiere,Ben,3.56,1.0,False,True,False,1.0
+57,Episode 2,Ben,,1.0,False,True,False,1.0
+58,Episode 3,Ben,4.0,1.0,False,True,False,1.0
+59,Episode 4,Ben,3.78,1.0,False,True,False,1.0
+60,Episode 5,Ben,4.16,1.0,False,True,False,1.0
+61,Episode 6,Ben,3.99,1.0,False,True,False,1.0
+62,Episode 7,Ben,4.1,1.0,False,True,False,1.0
+63,Episode 8,Ben,2.95,1.0,False,True,False,1.0
+64,Episode 9,Ben,2.58,1.0,False,True,False,1.0
+65,Episode 10,Ben,3.3,1.0,False,True,False,1.0
+66,Episode 11,Ben,3.18,1.0,False,True,False,1.0
+67,Episode 12,Ben,3.23,1.0,False,True,False,1.0
+68,Episode 13,Ben,3.39,1.0,False,True,False,1.0
+69,Finale,Ben,3.39,1.0,True,True,True,1.0
+70,Premiere,Jessica,,12.0,False,False,False,>5
+71,Episode 2,Jessica,,12.0,False,False,False,>5
+72,Episode 3,Jessica,3.21,12.0,False,False,False,>5
+73,Episode 4,Jessica,3.47,12.0,False,False,False,>5
+74,Episode 5,Jessica,3.81,12.0,False,False,False,>5
+75,Episode 6,Jessica,3.47,12.0,False,False,False,>5
+76,Episode 7,Jessica,3.47,12.0,True,False,False,>5
+77,Episode 8,Jessica,,12.0,False,False,False,>5
+78,Episode 9,Jessica,,12.0,False,False,False,>5
+79,Episode 10,Jessica,,12.0,False,False,False,>5
+80,Episode 11,Jessica,,12.0,False,False,False,>5
+81,Episode 12,Jessica,,12.0,False,False,False,>5
+82,Episode 13,Jessica,,12.0,False,False,False,>5
+83,Finale,Jessica,,12.0,False,False,False,>5
+84,Premiere,Lauren,,7.0,False,False,False,>5
+85,Episode 2,Lauren,,7.0,False,False,False,>5
+86,Episode 3,Lauren,,7.0,False,False,False,>5
+87,Episode 4,Lauren,3.13,7.0,False,False,False,>5
+88,Episode 5,Lauren,3.24,7.0,False,False,False,>5
+89,Episode 6,Lauren,3.35,7.0,False,False,False,>5
+90,Episode 7,Lauren,3.08,7.0,False,False,False,>5
+91,Episode 8,Lauren,3.87,7.0,False,False,False,>5
+92,Episode 9,Lauren,3.98,7.0,False,False,False,>5
+93,Episode 10,Lauren,4.43,7.0,False,False,False,>5
+94,Episode 11,Lauren,4.29,7.0,False,False,False,>5
+95,Episode 12,Lauren,4.29,7.0,True,False,False,>5
+96,Episode 13,Lauren,,7.0,False,False,False,>5
+97,Finale,Lauren,,7.0,False,False,False,>5
+98,Premiere,Devon,,4.0,False,True,False,4.0
+99,Episode 2,Devon,,4.0,False,True,False,4.0
+100,Episode 3,Devon,,4.0,False,True,False,4.0
+101,Episode 4,Devon,,4.0,False,True,False,4.0
+102,Episode 5,Devon,,4.0,False,True,False,4.0
+103,Episode 6,Devon,,4.0,False,True,False,4.0
+104,Episode 7,Devon,3.4,4.0,False,True,False,4.0
+105,Episode 8,Devon,3.93,4.0,False,True,False,4.0
+106,Episode 9,Devon,4.09,4.0,False,True,False,4.0
+107,Episode 10,Devon,4.29,4.0,False,True,False,4.0
+108,Episode 11,Devon,4.18,4.0,False,True,False,4.0
+109,Episode 12,Devon,4.14,4.0,False,True,False,4.0
+110,Episode 13,Devon,3.52,4.0,False,True,False,4.0
+111,Finale,Devon,3.52,4.0,True,True,False,4.0
+112,Premiere,Mike,,5.0,False,True,False,5.0
+113,Episode 2,Mike,,5.0,False,True,False,5.0
+114,Episode 3,Mike,,5.0,False,True,False,5.0
+115,Episode 4,Mike,,5.0,False,True,False,5.0
+116,Episode 5,Mike,,5.0,False,True,False,5.0
+117,Episode 6,Mike,,5.0,False,True,False,5.0
+118,Episode 7,Mike,2.96,5.0,False,True,False,5.0
+119,Episode 8,Mike,2.96,5.0,False,True,False,5.0
+120,Episode 9,Mike,2.32,5.0,False,True,False,5.0
+121,Episode 10,Mike,2.04,5.0,False,True,False,5.0
+122,Episode 11,Mike,1.92,5.0,False,True,False,5.0
+123,Episode 12,Mike,2.38,5.0,False,True,False,5.0
+124,Episode 13,Mike,2.18,5.0,False,True,False,5.0
+125,Finale,Mike,2.18,5.0,True,True,False,5.0
+126,Premiere,Joe,,8.0,False,False,False,>5
+127,Episode 2,Joe,,8.0,False,False,False,>5
+128,Episode 3,Joe,,8.0,False,False,False,>5
+129,Episode 4,Joe,,8.0,False,False,False,>5
+130,Episode 5,Joe,,8.0,False,False,False,>5
+131,Episode 6,Joe,,8.0,False,False,False,>5
+132,Episode 7,Joe,,8.0,False,False,False,>5
+133,Episode 8,Joe,,8.0,False,False,False,>5
+134,Episode 9,Joe,2.07,8.0,False,False,False,>5
+135,Episode 10,Joe,,8.0,False,False,False,>5
+136,Episode 11,Joe,,8.0,False,False,False,>5
+137,Episode 12,Joe,,8.0,False,False,False,>5
+138,Episode 13,Joe,,8.0,False,False,False,>5
+139,Finale,Joe,,8.0,False,False,False,>5
+140,Premiere,Ashley,,6.0,False,False,False,>5
+141,Episode 2,Ashley,,6.0,False,False,False,>5
+142,Episode 3,Ashley,,6.0,False,False,False,>5
+143,Episode 4,Ashley,,6.0,False,False,False,>5
+144,Episode 5,Ashley,,6.0,False,False,False,>5
+145,Episode 6,Ashley,,6.0,False,False,False,>5
+146,Episode 7,Ashley,,6.0,False,False,False,>5
+147,Episode 8,Ashley,,6.0,False,False,False,>5
+148,Episode 9,Ashley,1.74,6.0,False,False,False,>5
+149,Episode 10,Ashley,2.16,6.0,False,False,False,>5
+150,Episode 11,Ashley,2.06,6.0,False,False,False,>5
+151,Episode 12,Ashley,1.82,6.0,False,False,False,>5
+152,Episode 13,Ashley,1.82,6.0,True,False,False,>5
+153,Finale,Ashley,,6.0,False,False,False,>5
+154,Premiere,JP,,9.0,False,False,False,>5
+155,Episode 2,JP,,9.0,False,False,False,>5
+156,Episode 3,JP,,9.0,False,False,False,>5
+157,Episode 4,JP,,9.0,False,False,False,>5
+158,Episode 5,JP,,9.0,False,False,False,>5
+159,Episode 6,JP,,9.0,False,False,False,>5
+160,Episode 7,JP,,9.0,False,False,False,>5
+161,Episode 8,JP,,9.0,False,False,False,>5
+162,Episode 9,JP,1.15,9.0,False,False,False,>5
+163,Episode 10,JP,,9.0,False,False,False,>5
+164,Episode 11,JP,,9.0,False,False,False,>5
+165,Episode 12,JP,,9.0,False,False,False,>5
+166,Episode 13,JP,,9.0,False,False,False,>5
+167,Finale,JP,,9.0,False,False,False,>5
