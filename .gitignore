@@ -1,2 +1,5 @@
 /.ipynb_checkpoint
+venv/
+.idea/
 settings.json
+client_secret.json
