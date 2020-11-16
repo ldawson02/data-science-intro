@@ -1,2 +1,4 @@
 lxml==4.6.1
 pitchfork
+fuzzywuzzy
+python-Levenshtein
